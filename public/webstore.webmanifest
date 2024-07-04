@@ -1,0 +1,19 @@
+{
+    "name": "afterschool",
+    "description": "Advance Web COurse WOrk 3",
+    "icons": [
+        {
+            "src": "192x192.png.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "512x512.png.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
